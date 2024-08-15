@@ -175,7 +175,7 @@ This is an introductory course in computer science that uses Python as the prima
   - [ITI Material](https://drive.google.com/drive/folders/136jCVW9dISvw-SFjnRklPh1YEzbeS025)
   - [Database Fundamentals - MaharaTech](https://maharatech.gov.eg/course/view.php?id=740)
   - [Database Management Systems Course - 2nd Database Course (*Advanced*) - Dr.Mohamed El Desouky](https://youtube.com/playlist?list=PL1DUmTEdeA6Lg6CXlnxEDhwpmWB0QaDh5&si=VkPT9rFNZpkyWDew)
-  - [Relational Database Internals Arabic (*Advanced*)](https://youtube.com/playlist?list=PL1DUmTEdeA6Lg6CXlnxEDhwpmWB0QaDh5&si=VkPT9rFNZpkyWDew) (*Recommended*)
+  - [Relational Database Internals Arabic (*Advanced*)](https://youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF&si=u7sgxJzK-vFb6xAA) (*Recommended*)
 - **📚 Books**
    - [Fundumentals Of Database Systems](https://drive.google.com/file/d/1JwJDWIbMhBU8DoMLUc0C0oXBuwqq5wW0/view?usp=drive_link)
 
