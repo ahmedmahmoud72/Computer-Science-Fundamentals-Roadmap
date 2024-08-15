@@ -157,7 +157,7 @@ This is an introductory course in computer science that uses Python as the prima
   - [Data Structures Full Course In Arabic - Adel Nasim](https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&si=ggqXcs1kHUrENDAB)
   - [C++ Data Structures - تراكيب البيانات -  Dr.Mohamed El Desouky](https://youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt&si=UYLt23C2Igz3Amnd)
   - [Data Structures - Dr. Mustafa Saad](https://youtube.com/playlist?list=PLPt2dINI2MIZX2EtY81WI-lDkvhKziLKM&si=NqoNh2LytCe8Eb60)
- # Algorithm
+ # Algorithms
   - [Graph Algorithms for Technical Interviews  - FreeCodeCamp](https://youtu.be/tWVWeAqZ0WU?si=36_dfYXbKG1GgCWM)
   - 📚 Books
     - [Grokking Algorithms](https://drive.google.com/file/d/1OhcZyamaofsFDszf0GbmHOAFtxzOX-f8/view?usp=drive_link)
