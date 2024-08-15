@@ -102,7 +102,7 @@ This is an introductory course in computer science that uses Python as the prima
   - [Fundamentals Of Programming With C++ - Elzero Web School](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS&si=Pw-zeMW-cssGLEkL)
   - [Learn C++ Programming From Scratch In Arabic - Adel Nasim](https://youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3&si=16vIfd0OwKqpUTLe)
   - [programming 1 - Programming For Beginners - C++ عربى - Dr.Mohamed El Desouky](https://youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD&si=gJ-SAIWXU60ljRbC)
-  - 
+  
 - **Tutorials**
    - [C++ Tutorial - W3Schools](https://www.w3schools.com/cpp)
    - [C++ Tutorial - Javatpoint](https://www.javatpoint.com/cpp-tutorial)
@@ -126,7 +126,6 @@ This is an introductory course in computer science that uses Python as the prima
    - [Object-Oriented Programming JAVA in Arabic - Adel Nasim](https://youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv&si=ffwN6Pv4c7bk9RBC)
    - [Programming 2 - Object Oriented Programming With Java - Dr.Mohamed El Desouky](https://youtube.com/playlist?list=PL1DUmTEdeA6Icttz-O9C3RPRF8R8Px5vk&si=7aYe_yLppyu_wJon)
    - [OOP - بالعربي - Omar Ahmed](https://youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v&si=FD1ZbGIa64hf6nBw)
-
 ---
 
 ## 🖥️ Object Oriented Programming C++
@@ -138,12 +137,16 @@ This is an introductory course in computer science that uses Python as the prima
   - [C++ Object-Oriented Design and Programming - Dr. Mustafa Saad](https://youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG&si=JhCD8nN7pDcn5s-G)
   - [Object-Oriented Programming C++ in Arabic - Adel Nasim](https://youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow&si=b8zjSYQd7HoeMT0N)
   - [Programming 2 - Object Oriented Programming with C++ - Dr.Mohamed El Desouky](https://youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU&si=1d91-1biDzNIkQUl)
+  
+---
 
+## 📚 Books
+   - [Head First Object-Oriented Analysis and Design](https://drive.google.com/file/d/125gh8BrCMnhjusOkHmC0-pC84pGbPyjF/view?usp=drive_link)
+   - [Head First Design Patterns](https://drive.google.com/file/d/17ow6nRzxuiUic756jKf2g3Pv4HrqouXP/view?usp=drive_link)
 
 ---
 
 <br>
----
 
 # Data Structures and Algorithms
 
@@ -154,8 +157,14 @@ This is an introductory course in computer science that uses Python as the prima
   - [Data Structures Full Course In Arabic - Adel Nasim](https://youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp&si=ggqXcs1kHUrENDAB)
   - [C++ Data Structures - تراكيب البيانات -  Dr.Mohamed El Desouky](https://youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt&si=UYLt23C2Igz3Amnd)
   - [Data Structures - Dr. Mustafa Saad](https://youtube.com/playlist?list=PLPt2dINI2MIZX2EtY81WI-lDkvhKziLKM&si=NqoNh2LytCe8Eb60)
+ # Algorithm
+  - [Graph Algorithms for Technical Interviews  - FreeCodeCamp](https://youtu.be/tWVWeAqZ0WU?si=36_dfYXbKG1GgCWM)
+  - 📚 Books
+    - [Grokking Algorithms](https://drive.google.com/file/d/1OhcZyamaofsFDszf0GbmHOAFtxzOX-f8/view?usp=drive_link)
+    - [Algorithms Unplugged](https://drive.google.com/file/d/1W1W_JUYOuZ5gtCed6y2Hv4ZPEpGMsng1/view?usp=drive_link)
 
 ---
+
 
 # Databases
 - **English**
@@ -167,6 +176,8 @@ This is an introductory course in computer science that uses Python as the prima
   - [Database Fundamentals - MaharaTech](https://maharatech.gov.eg/course/view.php?id=740)
   - [Database Management Systems Course - 2nd Database Course (*Advanced*) - Dr.Mohamed El Desouky](https://youtube.com/playlist?list=PL1DUmTEdeA6Lg6CXlnxEDhwpmWB0QaDh5&si=VkPT9rFNZpkyWDew)
   - [Relational Database Internals Arabic (*Advanced*)](https://youtube.com/playlist?list=PL1DUmTEdeA6Lg6CXlnxEDhwpmWB0QaDh5&si=VkPT9rFNZpkyWDew) (*Recommended*)
+- **📚 Books**
+   - [Fundumentals Of Database Systems](https://drive.google.com/file/d/1JwJDWIbMhBU8DoMLUc0C0oXBuwqq5wW0/view?usp=drive_link)
 
 ---
 
@@ -179,11 +190,11 @@ This is an introductory course in computer science that uses Python as the prima
 - **Arabic**
   - [ITI Material](https://youtube.com/playlist?list=PLtHXR6eHeKvs9YsgFcqgUAqM4zaMjVOvj&si=2TW5a6aGa5JWCNQx)
   - [Operating Systems - أنظمة التشغيل - Dr. Ahmed Hagag](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)
-
-
+- **📚 Books**
+   - [Introduction to operating system design and implementation](https://drive.google.com/file/d/1WjZIN4CNzcIfC5tPFDjfydgAVgrl9M7S/view?usp=drive_link)
 ---
 
-# Problem Solving (Practice From Day One)
+# Problem-Solving (Practice From Day One)
 - [ICPC Al-azhar](https://sites.google.com/view/azharicpc/training-plans/level-1-training21)
 - [ICPC Assiut](https://docs.google.com/spreadsheets/d/1EbbsotAwb0zuuwxyzs8l2qh8twqw-sNcNbAjCK1kXaE/edit?usp=drivesdk)
 - [Competitions sheet - Dr. Mustafa Saad](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?gid=84654839#gid=84654839)
